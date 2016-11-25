@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-test
 
 > A Vue.js project
@@ -16,3 +17,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vuex2
+vuex2 Framework
+>>>>>>> origin/master
