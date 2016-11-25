@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # vue-test
 
 > A Vue.js project
@@ -20,4 +20,3 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 =======
 # vuex2
 vuex2 Framework
->>>>>>> origin/master
