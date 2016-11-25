@@ -8,8 +8,6 @@
 </template>
 
 <script>
-console.log(123)
-console.log(__dirname)
 import firstcomponent from './components/firstComponent.vue';
 export default {
   name: 'app',
