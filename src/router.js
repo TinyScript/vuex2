@@ -4,7 +4,7 @@ import secondCompoent from './components/secondComponent.vue';
 
 const routers = [
 	{ path: '/home', name: 'Home', component: Home },
-	{ path: '/vuex2/first/:id', component: firstComponent },
+	{ path: '/first/:id', component: firstComponent },
 	{ path: '/second', component: secondCompoent }
 ]
 
