@@ -1,9 +1,9 @@
 
 # vue2.0
 
->>>>>>> origin/master
+ origin/master
 
-> A Vue.js project
+ A Vue.js project
 
 ## Build Setup
 
@@ -22,4 +22,4 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 # vuex2
 vuex2 Framework
->>>>>>> origin/master
+origin/master
