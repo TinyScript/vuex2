@@ -5,6 +5,10 @@
 		      author: "微信公众号 jinkey-love",
 		      articles: []
 		    }
+		},
+		created() {
+			console.log(1)
+			console.log(this.$router)
 		}
 	}
 </script>
