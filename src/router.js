@@ -3,10 +3,10 @@ import firstComponent from './components/firstComponent.vue';
 import secondCompoent from './components/secondComponent.vue';
 
 const routers = [
-	{ path: '/*', redirect: { name : 'Home' } },
 	{ path: '/', name: 'Home', component: Home },
 	{ path: '/first/:id', component: firstComponent },
-	{ path: '/second', component: secondCompoent }
+	{ path: '/second', component: secondCompoent },
+	{ path: '*', redirect: { name : 'Home' } }
 ]
 
 export default routers;
